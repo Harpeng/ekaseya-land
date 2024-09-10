@@ -1,0 +1,35 @@
+@font-face { 
+    font-family: 'Inter'; 
+    font-weight: 700; 
+    src: url(../vendor/font/Inter_24pt-Bold.woff);
+} 
+
+@font-face { 
+    font-family: 'Inter'; 
+    font-weight: 500; 
+    src: url(../vendor/font/Inter_18pt-Medium.woff2);
+} 
+
+@font-face { 
+    font-family: 'Inter'; 
+    font-weight: 400; 
+    src: url(../vendor/font/Inter_18pt-Regular.woff2),
+}
+
+@font-face { 
+    font-family: 'Playfair Display'; 
+    font-weight: 700; 
+    src: url(../vendor/fonts/PlayfairDisplay-Bold.woff2),
+} 
+
+@font-face { 
+    font-family: 'Playfair Display'; 
+    font-weight: 500; 
+    src: url(../vendor/font/PlayfairDisplay-Medium.woff),
+} 
+
+@font-face { 
+    font-family: 'Playfair Display'; 
+    font-weight: 400; 
+    src: url(../vendor/font/PlayfairDisplay-Regular.woff),
+} 
